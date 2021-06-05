@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1dac8481-c9eb-4b0f-ba88-0b713673523b" name="Default Changelist" comment="added hello.html">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/hello.html" afterDir="false" />
+    <list default="true" id="1dac8481-c9eb-4b0f-ba88-0b713673523b" name="Default Changelist" comment="removed one line">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +24,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1tSIJHt6rNRDPJOMuSamjMRm1sa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -83,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622846151002</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="removed one line">
+      <created>1622928097075</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622928097075</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,7 +102,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added hello.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="added hello.html" />
+    <MESSAGE value="removed one line" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed one line" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
